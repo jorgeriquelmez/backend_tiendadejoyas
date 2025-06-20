@@ -29,7 +29,7 @@ Este repositorio contiene la API REST para la gestión de un inventario de joyas
 
 ## 📁 Estructura del Proyecto
 
-backend_tiendadejoyas/
+backend_tiendadejoyas/  
 ├── config/
 │ └── config.js # Configuración de la conexión a la base de datos  
 ├── controllers/  
