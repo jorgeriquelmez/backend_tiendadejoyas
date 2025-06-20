@@ -4,6 +4,11 @@ Este repositorio contiene la API REST para la gestión de un inventario de joyas
 
 ---
 
+![foto1](https://github.com/jorgeriquelmez/imagenes/blob/main/joyas_1.png)
+![foto2](https://github.com/jorgeriquelmez/imagenes/blob/main/joyas_2.png)
+
+---
+
 ## 🚀 Características
 
 - **Listado de Joyas:** Obtiene todas las joyas del inventario con soporte para paginación (`page`, `limits`) y ordenamiento (`order_by`).
