@@ -31,19 +31,19 @@ Este repositorio contiene la API REST para la gestión de un inventario de joyas
 
 backend_tiendadejoyas/
 ├── config/
-│ └── config.js # Configuración de la conexión a la base de datos
-├── controllers/
-│ └── joyasController.js # Lógica de manejo de solicitudes HTTP para joyas
-├── helpers/
-│ └── hateoas.js # Funciones de transformación de respuesta (incluido HATEOAS)
-├── middlewares/
-│ └── validateJoyasQueryParams.js # Middleware para validación de parámetros de consulta
-├── models/
-│ └── joyasModel.js # Lógica de interacción con la base de datos para joyas
-├── routes/
-│ └── joyasRoutes.js # Definición de las rutas de la API para joyas
-├── .env.example # Ejemplo de archivo de variables de entorno
-├── package.json # Metadatos y dependencias del proyecto
+│ └── config.js # Configuración de la conexión a la base de datos  
+├── controllers/  
+│ └── joyasController.js # Lógica de manejo de solicitudes HTTP para joyas  
+├── helpers/  
+│ └── hateoas.js # Funciones de transformación de respuesta (incluido HATEOAS)  
+├── middlewares/  
+│ └── validateJoyasQueryParams.js # Middleware para validación de parámetros de consulta  
+├── models/  
+│ └── joyasModel.js # Lógica de interacción con la base de datos para joyas  
+├── routes/  
+│ └── joyasRoutes.js # Definición de las rutas de la API para joyas  
+├── .env.example # Ejemplo de archivo de variables de entorno  
+├── package.json # Metadatos y dependencias del proyecto  
 └── server.js # Punto de entrada principal de la aplicación
 
 ---
